@@ -3,5 +3,25 @@
     "cors": "^2.8.5",
     "express": "^4.18.2",
     "nodemon": "^2.0.20"
-  }
+  },
+  "name": "learning-plateform-assignment-server-side",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/programming-hero-web-course1/b610-lerning-platform-server-side-Sanzida-Alam-Sinthia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/programming-hero-web-course1/b610-lerning-platform-server-side-Sanzida-Alam-Sinthia/issues"
+  },
+  "homepage": "https://github.com/programming-hero-web-course1/b610-lerning-platform-server-side-Sanzida-Alam-Sinthia#readme",
+  "description": ""
 }

@@ -20,16 +20,15 @@ app.get('/courseCatagories', (req, res) => {
     res.send(courseCatagories);
 });
 
-// app.get('/courses/:id', (req, res) => {
-//     const id = req.params.id;
-//     if (id === '08') {
-//         res.send(news);
-//     }
-//     else {
-//         const category_news = news.filter(n => n.category_id === id);
-//         res.send(category_news);
-//     }
-// })
+app.get('/courses/:id', (req, res) => {
+    const id = req.params.id;
+    console.log(id);
+
+    const selectedCourse = courses.find(n => n.id == id);
+    res.send(selectedCourse);
+    console.log(selectedCourse)
+})
+
 
 // app.get('/news', (req, res) => {
 //     res.send(news);

@@ -1,38 +1,44 @@
 [
     {
         "id": 1,
-        "name": "React",
+        "name": "Intro To React",
         "logo": "https://live.staticflickr.com/65535/52413593240_e00326e727_o.png",
-        "total": 8
+        "total": 8,
+        "description": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes. Build encapsulated components that manage their own state, then compose them to make complex UIs. Since component logic is written in JavaScript instead of templates, you can easily pass rich data through your app and keep state out of the DOM. We don’t make assumptions about the rest of your technology stack, so you can develop new features in React without rewriting existing code."
     },
     {
         "id": 2,
-        "name": "JavaScript",
+        "name": "JavaScript Tutorial",
         "logo": "https://live.staticflickr.com/65535/52412638962_12e932256a_o.png",
-        "total": 9
+        "total": 9,
+        "description": "JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB and Adobe Acrobat. JavaScript is a prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles. Read more about JavaScript. JavaScript frameworks are an essential part of modern front-end web development, providing developers with proven tools for building scalable, interactive web applications. This module gives you some fundamental background knowledge about how client-side frameworks work and how they fit into your toolset, before moving on to a series of tutorials covering some of today's most popular ones."
     },
     {
         "id": 4,
-        "name": "CSS",
+        "name": "CSS Tutorial",
         "logo": "https://live.staticflickr.com/65535/52413665713_5977a693cb_o.png",
-        "total": 8
+        "total": 8,
+        "description": "CSS (Cascading Style Sheets) is used to style and layout web pages — for example, to alter the font, color, size, and spacing of your content, split it into multiple columns, or add animations and other decorative features. CSS is the language for describing the presentation of Web pages, including colors, layout, and fonts. It allows one to adapt the presentation to different types of devices, such as large screens, small screens, or printers. CSS is independent of HTML and can be used with any XML-based markup language."
     },
     {
         "id": 5,
-        "name": "Git",
+        "name": "Learn Using GitHub",
         "logo": "https://live.staticflickr.com/65535/52412639027_5692c15b3f_o.png",
-        "total": 11
+        "total": 11,
+        "description": "Git is a DevOps tool used for source code management. It is a free and open-source version control system used to handle small to very large projects efficiently. Git is used to tracking changes in the source code, enabling multiple developers to work together on non-linear development. While Git is a tool that's used to manage multiple versions of source code edits that are then transferred to files in a Git repository, GitHub serves as a location for uploading copies of a Git repository."
     },
     {
         "id": 6,
-        "name": "Bootstrap",
+        "name": "Styling with Bootstrap",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png",
-        "total": 17
+        "total": 17,
+        "description": "Bootstrap is a free, open source front-end development framework for the creation of websites and web apps. Designed to enable responsive development of mobile-first websites, Bootstrap provides a collection of syntax for template designs. Bootstrap uses HTML elements and CSS properties that require the HTML5 doctype. Bootstrap 3 is designed to be responsive to mobile devices. Mobile-first styles are part of the core framework. CSS represent the style and the appearance of content like font, color, margin, padding, etc. Bootstrap is a free and open-source CSS Framework that is used for developing responsive website. CSS does not have a grid system. Bootstrap is based on-grid system."
     },
     {
         "id": 7,
-        "name": "Node JS",
+        "name": "Learn Node JS",
         "logo": "https://www.devteam.space/wp-content/uploads/2022/05/nodejs.jpg",
-        "total": 11
+        "total": 11,
+        "description": "Node is written in JavaScript. JavaScript is one of the most popular programming languages and nearly every developer is familiar with it. Therefore, learning Node requires less effort and time, even for a junior JavaScript programmer. It is used for server-side programming, and primarily deployed for non-blocking, event-driven servers, such as traditional web sites and back-end API services, but was originally designed with real-time, push-based architectures in mind."
     }
 ]

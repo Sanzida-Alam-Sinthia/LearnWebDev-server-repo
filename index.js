@@ -22,11 +22,11 @@ app.get('/courseCatagories', (req, res) => {
 
 app.get('/courses/:id', (req, res) => {
     const id = req.params.id;
-    console.log(id);
+    // console.log(id);
 
     const selectedCourse = courses.find(n => n.id == id);
     res.send(selectedCourse);
-    console.log(selectedCourse)
+    // console.log(selectedCourse)
 })
 
 
